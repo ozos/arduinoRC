@@ -1,3 +1,4 @@
+For screenshots visit [this] (http://ozos.github.io/2015/01/21/Yet%20another%20robot%20car/)
 # arduinoRC
 This app communicates with Arduino board over bluetooth. It is used to control a robot car.
 
