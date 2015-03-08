@@ -4,7 +4,7 @@ This app communicates with Arduino board over Bluetooth. It is used to control a
 
 **How to use:**
 - Run arduinoRC app.
-- Click on Bluetooth icon
+- Click on the Bluetooth icon
 - Choose Arduino device from list of connections.
 - Click on buttons to control the robot car.
 
